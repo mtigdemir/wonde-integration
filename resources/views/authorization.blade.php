@@ -29,7 +29,7 @@
                             <br>
                             <div class="form-group">
                                 <label for="employeeNumber">Type your employee Number</label>
-                                <input required ame="teacherId" class="form-control" id="employeeNumber"
+                                <input required name="teacherId" class="form-control" id="employeeNumber"
                                     aria-describedby="employeeHelp" placeholder="Enter employee number" value="A1851920782">
                                 <small id="employeeHelp" class="form-text text-muted">This is your emplooye number start with A example A123456721 </small>
                             </div>
