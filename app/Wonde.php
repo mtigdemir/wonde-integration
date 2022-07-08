@@ -9,9 +9,9 @@ use Wonde\Client;
 class Wonde extends Facade
 {
     /**
-     * Wonde Client Instance
+     * Wonde Service
      *
-     * @return Client
+     * @return WondeService
      */
     protected static function getFacadeAccessor()
     {
