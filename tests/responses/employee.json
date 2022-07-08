@@ -1,0 +1,300 @@
+{
+    "data": {
+        "id": "A1851920782",
+        "upi": "80132396d4d40c13b1c94ed53c694770",
+        "mis_id": "28",
+        "initials": "SM",
+        "title": "Dr",
+        "surname": "Miandad",
+        "forename": "Sunil",
+        "middle_names": null,
+        "legal_surname": "Miandad",
+        "legal_forename": "Sunil",
+        "gender": null,
+        "date_of_birth": null,
+        "restored_at": null,
+        "updated_at": {
+            "date": "2022-03-14 08:14:06.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "created_at": {
+            "date": "2016-01-28 14:43:33.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "classes": {
+            "data": [
+                {
+                    "id": "A1324823930",
+                    "mis_id": "13967",
+                    "name": "10x/Bi1",
+                    "code": null,
+                    "description": "10x/Bi1",
+                    "subject": "A1811287457",
+                    "alternative": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2021-09-02 08:36:08.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2021-09-02 09:25:27.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "meta": {
+                        "is_main_teacher": true,
+                        "is_class_teacher": true,
+                        "role": "Main Class Teacher",
+                        "all_roles": [
+                            "Main Class Teacher",
+                            "Class Teacher"
+                        ]
+                    }
+                },
+                {
+                    "id": "A1156303125",
+                    "mis_id": "13968",
+                    "name": "10x/Ch1",
+                    "code": null,
+                    "description": "10x/Ch1",
+                    "subject": "A1944107525",
+                    "alternative": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2021-09-02 08:36:08.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2021-09-02 09:25:28.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "meta": {
+                        "is_main_teacher": true,
+                        "is_class_teacher": true,
+                        "role": "Main Class Teacher",
+                        "all_roles": [
+                            "Main Class Teacher",
+                            "Class Teacher"
+                        ]
+                    }
+                },
+                {
+                    "id": "A114085526",
+                    "mis_id": "13969",
+                    "name": "10x/Ph1",
+                    "code": null,
+                    "description": "10x/Ph1",
+                    "subject": "A1215537276",
+                    "alternative": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2021-09-02 08:36:08.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2021-09-02 09:25:27.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "meta": {
+                        "is_main_teacher": true,
+                        "is_class_teacher": true,
+                        "role": "Main Class Teacher",
+                        "all_roles": [
+                            "Main Class Teacher",
+                            "Class Teacher"
+                        ]
+                    }
+                },
+                {
+                    "id": "A847316279",
+                    "mis_id": "14131",
+                    "name": "13D/Ch1",
+                    "code": null,
+                    "description": "13D/Ch1",
+                    "subject": "A1944107525",
+                    "alternative": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2021-09-02 08:36:09.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2021-09-02 09:25:28.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "meta": {
+                        "is_main_teacher": false,
+                        "is_class_teacher": true,
+                        "role": "Class Teacher",
+                        "all_roles": [
+                            "Class Teacher"
+                        ]
+                    }
+                },
+                {
+                    "id": "A114300789",
+                    "mis_id": "13727",
+                    "name": "7BLU/Sc",
+                    "code": null,
+                    "description": "7BLU/Sc",
+                    "subject": "A2120048847",
+                    "alternative": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2021-09-02 08:36:09.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2021-09-02 09:25:28.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "meta": {
+                        "is_main_teacher": true,
+                        "is_class_teacher": true,
+                        "role": "Main Class Teacher",
+                        "all_roles": [
+                            "Main Class Teacher",
+                            "Class Teacher"
+                        ]
+                    }
+                },
+                {
+                    "id": "A1372620353",
+                    "mis_id": "13779",
+                    "name": "8B/Ci",
+                    "code": null,
+                    "description": "8B/Ci",
+                    "subject": "A166158236",
+                    "alternative": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2021-09-02 08:36:09.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2021-09-02 09:25:28.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "meta": {
+                        "is_main_teacher": true,
+                        "is_class_teacher": true,
+                        "role": "Main Class Teacher",
+                        "all_roles": [
+                            "Main Class Teacher",
+                            "Class Teacher"
+                        ]
+                    }
+                },
+                {
+                    "id": "A1779255518",
+                    "mis_id": "13833",
+                    "name": "8E/Sc",
+                    "code": null,
+                    "description": "8E/Sc",
+                    "subject": "A2120048847",
+                    "alternative": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2021-09-02 08:36:09.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2021-09-02 09:25:28.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "meta": {
+                        "is_main_teacher": true,
+                        "is_class_teacher": true,
+                        "role": "Main Class Teacher",
+                        "all_roles": [
+                            "Main Class Teacher",
+                            "Class Teacher"
+                        ]
+                    }
+                },
+                {
+                    "id": "A487804246",
+                    "mis_id": "13897",
+                    "name": "9x/Sc1",
+                    "code": null,
+                    "description": "9x/Sc1",
+                    "subject": "A2120048847",
+                    "alternative": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2021-09-02 08:36:09.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2021-09-02 09:25:27.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "meta": {
+                        "is_main_teacher": true,
+                        "is_class_teacher": true,
+                        "role": "Main Class Teacher",
+                        "all_roles": [
+                            "Main Class Teacher",
+                            "Class Teacher"
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    "meta": {
+        "includes": [
+            "contact_details",
+            "employment_details",
+            "extended_details",
+            "roles",
+            "allowances",
+            "scales",
+            "photo",
+            "roles.contract",
+            "allowances.contract",
+            "scales.contract",
+            "contracts",
+            "contracts.roles",
+            "contracts.salary",
+            "contracts.salary.allowances",
+            "contracts.salary.scales",
+            "salary",
+            "salary.contract",
+            "groups",
+            "campus",
+            "classes",
+            "classes.subject",
+            "classes.lessons",
+            "classes.lessons.period",
+            "classes.lessons.room",
+            "behaviours",
+            "behaviours.students",
+            "hierarchy",
+            "hierarchy.employment_details",
+            "employee_absences",
+            "identifiers",
+            "user_defined_fields",
+            "next_of_kin",
+            "employment_checks",
+            "qualifications"
+        ]
+    }
+}

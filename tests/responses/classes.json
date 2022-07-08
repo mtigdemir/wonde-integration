@@ -1,0 +1,551 @@
+{
+    "data": {
+        "id": "A1324823930",
+        "mis_id": "13967",
+        "name": "10x\/Bi1",
+        "code": null,
+        "description": "10x\/Bi1",
+        "subject": "A1811287457",
+        "alternative": null,
+        "restored_at": null,
+        "created_at": {
+            "date": "2021-09-02 08:36:08.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "updated_at": {
+            "date": "2021-09-02 09:25:27.000000",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "students": {
+            "data": [
+                {
+                    "id": "A2138531762",
+                    "upi": "b857582c77cc0f95880c863be4695361",
+                    "mis_id": "12368",
+                    "initials": "DO",
+                    "surname": "O'Connor",
+                    "forename": "Daniel",
+                    "middle_names": "Jackson",
+                    "legal_surname": null,
+                    "legal_forename": null,
+                    "gender": null,
+                    "date_of_birth": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2019-01-07 09:56:33.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2022-06-14 15:42:27.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                },
+                {
+                    "id": "A1686337990",
+                    "upi": "e920f83f9b3aa6de4f46e1f648062acb",
+                    "mis_id": "12505",
+                    "initials": "IH",
+                    "surname": "Harris",
+                    "forename": "Isla",
+                    "middle_names": "Elizabeth",
+                    "legal_surname": null,
+                    "legal_forename": null,
+                    "gender": null,
+                    "date_of_birth": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2019-01-07 09:56:30.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2022-06-14 15:46:10.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                },
+                {
+                    "id": "A94069109",
+                    "upi": "a15dd6e908c3c1cd9f75b456cecf50df",
+                    "mis_id": "12590",
+                    "initials": "SR",
+                    "surname": "Richards",
+                    "forename": "Stephen",
+                    "middle_names": null,
+                    "legal_surname": null,
+                    "legal_forename": null,
+                    "gender": null,
+                    "date_of_birth": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2019-01-07 09:56:35.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2022-06-14 15:46:16.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                },
+                {
+                    "id": "A1483596619",
+                    "upi": "ccb737af1609a974586c70dfd754814f",
+                    "mis_id": "12481",
+                    "initials": "RW",
+                    "surname": "Wright",
+                    "forename": "Rosie",
+                    "middle_names": "Shaniqua",
+                    "legal_surname": null,
+                    "legal_forename": null,
+                    "gender": null,
+                    "date_of_birth": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2019-01-07 09:56:38.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2022-06-14 15:46:18.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                },
+                {
+                    "id": "A1969896269",
+                    "upi": "5f2c006374afd9e258a8121c52cbe763",
+                    "mis_id": "12585",
+                    "initials": "LO",
+                    "surname": "O'Connor",
+                    "forename": "Lucy",
+                    "middle_names": null,
+                    "legal_surname": null,
+                    "legal_forename": null,
+                    "gender": null,
+                    "date_of_birth": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2019-01-07 09:56:33.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2022-06-21 12:35:58.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                },
+                {
+                    "id": "A463340812",
+                    "upi": "cfa2484ef0ad18bd5547f5da72b28b4b",
+                    "mis_id": "12591",
+                    "initials": "SR",
+                    "surname": "Roberts",
+                    "forename": "Sara",
+                    "middle_names": null,
+                    "legal_surname": null,
+                    "legal_forename": null,
+                    "gender": null,
+                    "date_of_birth": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2019-01-07 09:56:35.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2022-06-14 15:46:16.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                },
+                {
+                    "id": "A1114197936",
+                    "upi": "14c63fef186674ed4ef54fb306c63639",
+                    "mis_id": "12608",
+                    "initials": "JW",
+                    "surname": "Wong",
+                    "forename": "Janet",
+                    "middle_names": "Dina",
+                    "legal_surname": null,
+                    "legal_forename": null,
+                    "gender": null,
+                    "date_of_birth": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2019-01-07 09:56:37.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2022-06-14 15:46:16.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                },
+                {
+                    "id": "A555428111",
+                    "upi": "1d0800d1cdef8a4aad07b536ae8bdcf2",
+                    "mis_id": "12359",
+                    "initials": "CM",
+                    "surname": "Mitchell",
+                    "forename": "Cassie",
+                    "middle_names": "Jessica",
+                    "legal_surname": null,
+                    "legal_forename": null,
+                    "gender": null,
+                    "date_of_birth": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2019-01-07 09:56:33.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2022-06-14 15:42:31.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                },
+                {
+                    "id": "A534000130",
+                    "upi": "2562c21fbc928afd4de47c1c2ac3da58",
+                    "mis_id": "12511",
+                    "initials": "LS",
+                    "surname": "Stephenson",
+                    "forename": "Luke",
+                    "middle_names": "Ridley",
+                    "legal_surname": null,
+                    "legal_forename": null,
+                    "gender": null,
+                    "date_of_birth": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2019-01-07 09:56:36.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2022-06-14 15:46:12.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                },
+                {
+                    "id": "A1325955322",
+                    "upi": "e59ae5006b7765877f103062c495b07d",
+                    "mis_id": "12581",
+                    "initials": "JM",
+                    "surname": "Morris",
+                    "forename": "Julia",
+                    "middle_names": "Jean",
+                    "legal_surname": null,
+                    "legal_forename": null,
+                    "gender": null,
+                    "date_of_birth": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2019-01-07 09:56:33.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2022-06-14 15:46:11.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                },
+                {
+                    "id": "A1281451322",
+                    "upi": "09d4d1acf762dabdc023d22a76f020fd",
+                    "mis_id": "12289",
+                    "initials": "FB",
+                    "surname": "Brompton",
+                    "forename": "Fletcher",
+                    "middle_names": null,
+                    "legal_surname": null,
+                    "legal_forename": null,
+                    "gender": null,
+                    "date_of_birth": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2019-01-07 09:56:26.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2022-06-14 15:46:09.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                },
+                {
+                    "id": "A1553386338",
+                    "upi": "b314ce2360c1716becf2f1a613ece571",
+                    "mis_id": "12314",
+                    "initials": "EF",
+                    "surname": "Friend",
+                    "forename": "Eric",
+                    "middle_names": "David",
+                    "legal_surname": null,
+                    "legal_forename": null,
+                    "gender": null,
+                    "date_of_birth": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2019-01-07 09:56:29.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2022-06-21 12:35:58.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                },
+                {
+                    "id": "A518766823",
+                    "upi": "c5fb83d6068634e6d282e2fcf2fa8e19",
+                    "mis_id": "12333",
+                    "initials": "HI",
+                    "surname": "Ingleby",
+                    "forename": "Hazel",
+                    "middle_names": null,
+                    "legal_surname": null,
+                    "legal_forename": null,
+                    "gender": null,
+                    "date_of_birth": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2019-01-07 09:56:31.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2022-06-14 15:46:12.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                },
+                {
+                    "id": "A927936718",
+                    "upi": "e57b1950bcae32578a27958e1a3c3acd",
+                    "mis_id": "12522",
+                    "initials": "PP",
+                    "surname": "Park",
+                    "forename": "Poppy",
+                    "middle_names": "Emma",
+                    "legal_surname": null,
+                    "legal_forename": null,
+                    "gender": null,
+                    "date_of_birth": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2019-01-07 09:56:34.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2022-06-14 15:46:09.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                },
+                {
+                    "id": "A395409982",
+                    "upi": "bd8b808abd5937c9378b5f0c65bac9ff",
+                    "mis_id": "12540",
+                    "initials": "JR",
+                    "surname": "Roche",
+                    "forename": "Jackson",
+                    "middle_names": "David",
+                    "legal_surname": null,
+                    "legal_forename": null,
+                    "gender": null,
+                    "date_of_birth": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2019-01-07 09:56:35.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2022-06-14 15:42:27.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                },
+                {
+                    "id": "A913708686",
+                    "upi": "38902bd740da305f28af5e11205ae2e4",
+                    "mis_id": "12606",
+                    "initials": "ZW",
+                    "surname": "Williams",
+                    "forename": "Zachary",
+                    "middle_names": null,
+                    "legal_surname": null,
+                    "legal_forename": null,
+                    "gender": null,
+                    "date_of_birth": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2019-01-07 09:56:37.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2022-06-14 15:46:10.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                },
+                {
+                    "id": "A1344875399",
+                    "upi": "592ffa5b27e7072900b881029cf7656e",
+                    "mis_id": "12469",
+                    "initials": "RT",
+                    "surname": "Trafford",
+                    "forename": "Riley",
+                    "middle_names": null,
+                    "legal_surname": null,
+                    "legal_forename": null,
+                    "gender": null,
+                    "date_of_birth": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2019-01-07 09:56:37.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2022-06-14 15:42:27.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                },
+                {
+                    "id": "A1416059005",
+                    "upi": "d19084226e4417c18e51ebc2f00324bc",
+                    "mis_id": "12484",
+                    "initials": "DZ",
+                    "surname": "Zimri",
+                    "forename": "Dastageer",
+                    "middle_names": null,
+                    "legal_surname": null,
+                    "legal_forename": null,
+                    "gender": null,
+                    "date_of_birth": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2019-01-07 09:56:38.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2022-06-14 15:42:27.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                },
+                {
+                    "id": "A1583383778",
+                    "upi": "e19ba4f3ee883e020dfdef45f0fda7fa",
+                    "mis_id": "12487",
+                    "initials": "HY",
+                    "surname": "Yazdani",
+                    "forename": "Hazeema",
+                    "middle_names": null,
+                    "legal_surname": null,
+                    "legal_forename": null,
+                    "gender": null,
+                    "date_of_birth": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2019-01-07 09:56:38.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2022-06-14 15:46:09.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                },
+                {
+                    "id": "A1583316487",
+                    "upi": "d6c5ade89b0b6b01d47893958cc30b34",
+                    "mis_id": "12515",
+                    "initials": "ZC",
+                    "surname": "Carlsen",
+                    "forename": "Zach",
+                    "middle_names": "Norbert",
+                    "legal_surname": null,
+                    "legal_forename": null,
+                    "gender": null,
+                    "date_of_birth": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2019-01-07 09:56:27.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2022-06-14 15:46:10.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                },
+                {
+                    "id": "A161491011",
+                    "upi": "6c9bc288d9f20b14233cb82ff65dd6cd",
+                    "mis_id": "12525",
+                    "initials": "JR",
+                    "surname": "Rees",
+                    "forename": "Jude",
+                    "middle_names": "Jacob",
+                    "legal_surname": null,
+                    "legal_forename": null,
+                    "gender": null,
+                    "date_of_birth": null,
+                    "restored_at": null,
+                    "created_at": {
+                        "date": "2019-01-07 09:56:35.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    },
+                    "updated_at": {
+                        "date": "2022-06-14 15:46:10.000000",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                }
+            ]
+        }
+    },
+    "meta": {
+        "includes": [
+            "subject",
+            "students",
+            "students.contact_details",
+            "students.education_details",
+            "students.extended_details",
+            "students.campus",
+            "students.house",
+            "students.registration",
+            "students.year",
+            "students.boarding",
+            "employees",
+            "employees.contact_details",
+            "employees.employment_details",
+            "employees.extended_details",
+            "lessons",
+            "lessons.room",
+            "lessons.period"
+        ]
+    }
+}
