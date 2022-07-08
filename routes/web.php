@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\AuthenticationController;
+use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -17,3 +18,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', [AuthenticationController::class, 'index']);
 Route::post('login', [AuthenticationController::class, 'login'])->name('login');
 Route::get('logout', [AuthenticationController::class, 'logout'])->name('logout');
+
+Route::middleware(['auth'])->group(function () {
+    Route::get('home', [HomeController::class, 'home'])->name('home');
+    Route::get('my-class/{classId}', [HomeController::class, 'showClass'])->name('showClass');    
+});
