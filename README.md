@@ -1,3 +1,5 @@
+[![Laravel](https://github.com/mtigdemir/wonde-integration/actions/workflows/laravel.yml/badge.svg)](https://github.com/mtigdemir/wonde-integration/actions/workflows/laravel.yml)
+
 ## How to run
 
 - Clone Repository `git clone https://github.com/mtigdemir/wonde-integration.git`
