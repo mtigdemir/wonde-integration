@@ -13,3 +13,7 @@
 
 - PHP Version 8.0+
 - Node Version 17.0+
+
+## Deployed Version
+
+[Go to Application](https://wonde.herokuapp.com)
